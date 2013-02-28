@@ -2,8 +2,10 @@
 // ==UserScript==
 // @name          highlight_words
 // @namespace     highlight_words
-// @description	  script highlights abusive words on site pages (russian, utf8)
-// @description	  скрипт выделяет грубые слова на странице, обращая внимание модератора на резкий комментарии
+// @description   script highlights abusive words on site pages (russian, utf8)
+// @description   скрипт выделяет грубые слова на странице, обращая внимание модератора на резкий комментарии
+// @author        Dmitry Sergeev
+// @homepage      http://www.dserg.com
 // @include       http://hosting101.ru/*
 // ==/UserScript==
 
